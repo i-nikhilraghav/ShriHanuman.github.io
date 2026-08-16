@@ -81,7 +81,7 @@ hanuman-sattvik-dham/
 
 ```bash
 # प्रोजेक्ट डायरेक्टरी में जाएं
-cd c:\Users\user1\.gemini\antigravity-ide\scratch\hanuman-sattvik-dham
+cd c:\Users\user1\scratch\hanuman-sattvik-dham
 
 # डेवलपमेन्ट सर्वर आरंभ करें
 npm run dev
